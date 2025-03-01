@@ -28,6 +28,8 @@
 ### This updated version sems to return MORE results than
 ### the less efficient original version.  Not sure why yet.
 
+# small test edit for git
+
 library(jiebaR)
 library(quanteda)
 
